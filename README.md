@@ -1,4 +1,9 @@
 # code_3000
+
+Personal Statement on Ethics:
+I believe ethics should be the foundation of all of the decisions I make, both professionally and personally. To me, being ethical means treating others with respect, honesty, fairness, and accountability. I believe it is important to not only have good intentions, but to also make sure my actions reflect the values I claim to stand by. Ethical decision making requires careful thought and responsibility, especially when our decisions can affect others. Being an ethical person is not just about what I say I believe in, but about also demonstrating those beliefs through all of my actions.
+
+
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
